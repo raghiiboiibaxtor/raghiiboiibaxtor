@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @raghiiboiibaxtor
-- 👀 I’m interested in native mobile applications & user experience.
-- 🌱 I’m currently learning c++, in the first year of my Bachelor's in Software Engineering.
+- 👀 I’m interested in native applications & user experience.
+- 🌱 I’m currently learning python, in the second year of my Bachelor's in Software Engineering.
+- 🎓 I can speak c++, javascript, react, html & css. 
 - 💞️ I’m looking to collaborate on sustainable, and holistic technology and design projects.
 - 📫 Reach me: raghiibaxtor@gmail.com
 
