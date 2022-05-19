@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raghiiboiibaxtor
 - 👀 I’m interested in native applications & user experience.
 - 🌱 I’m currently learning python, in the second year of my Bachelor's in Software Engineering.
-- 🎓 I can speak c++, c#, python, javascript, react, svelte, html, css & English. 
+- 🎓 I can speak c++, c#, javascript, react, svelte, html, css & English. 
 - 💞️ I’m looking to collaborate on sustainable, and holistic technology and design projects.
 - 📫 Reach me: raghiibaxtor@gmail.com
 
