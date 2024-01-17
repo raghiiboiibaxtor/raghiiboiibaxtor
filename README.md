@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @raghiiboiibaxtor
 - 👀 I’m interested in native applications & user experience.
-- 🌱 I’m currently learning python, in the second year of my Bachelor's in Software Engineering.
-- 🎓 I can speak c++, c#, javascript, react, svelte, html, css & English. 
-- 💞️ I’m looking to collaborate on sustainable, and holistic technology and design projects.
+- 🌱 I’m currently learning Swift in my graduate summer internship role at Fulton Hogan.
+- 🎓 I have my Bachelor's in Software Engineering and Diploma in Web & Graphic Design.
+- 🤓 I can speak c++, javascript, react, swift, svelte, a bit of Español & English. 
+- 💞️ I’m looking to build, collaborate and learn- get in touch!
 - 📫 Reach me: raghiibaxtor@gmail.com
 
 <!---
